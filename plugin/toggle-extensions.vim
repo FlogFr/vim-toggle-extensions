@@ -39,6 +39,6 @@ function! ToggleExtensions()
 endfunction
 
 
-nmap <Tab> :call ToggleExtensions()<CR>
+" nmap <leader> :call ToggleExtensions()<CR>
 
 
